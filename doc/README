@@ -1,7 +1,7 @@
 fuse exercise -
+	this is an exercise to implement a fuse fs. 
 
-
-tutorials -
+tutorials - good resources
     http://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/
-
+    https://lastlog.de/misc/fuse-doc/doc/html/
 	
